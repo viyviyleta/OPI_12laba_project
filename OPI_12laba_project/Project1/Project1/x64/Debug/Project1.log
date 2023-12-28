@@ -1,0 +1,10 @@
+﻿  ArtemModule.cpp
+  LeraModule.cpp
+C:\Users\viy.viy.leta\Desktop\OPI\OPI_12laba_project\Project1\Project1\LeraModule.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main_12project.cpp
+C:\Users\viy.viy.leta\Desktop\OPI\OPI_12laba_project\Project1\Project1\LeraModule.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  VikaModule.cpp
+  ViolettaModule.cpp
+  Создание кода...
+C:\Users\viy.viy.leta\Desktop\OPI\OPI_12laba_project\Project1\Project1\VikaModule.cpp(188): warning C4715: tablelist: значение возвращается не при всех путях выполнения
+  Project1.vcxproj -> C:\Users\viy.viy.leta\Desktop\OPI\OPI_12laba_project\Project1\x64\Debug\Project12_OPI.exe
